@@ -1,1 +1,1 @@
-Members: Stupu Eduard Tarca Catalin Sescu Tiberiu Sebastian Fîrtescu Gheoca Razvan
+Members: [Stupu Eduard](https://github.com/Stupu-Eduard) [Tarca Catalin](https://github.com/cataCatau) [Sescu Tiberiu](https://github.com/TibiTren) [Sebastian Fîrtescu](https://github.com/Sebytzu) [Gheoca Razvan](https://github.com/razx11111)
